@@ -6,6 +6,4 @@ console.log(3 + 2);
 
 console.log('wowwwwwwwwwwwwwwwww');
 
-console.log('mas funcionalidad');
-
-console.log('si');
+console.log('arreglando esta caracteristica');
